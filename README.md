@@ -140,6 +140,84 @@
       <br>PostgreSQL
     </td>
  </tr>
+  <tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+    <br>Flutter
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+    <br>Firebase
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+    <br>GCP
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+    <br>Azure
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+    <br>Kubernetes
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+    <br>Docker
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+    <br>NestJS
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+    <br>Redux
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+    <br>Next.js
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="Nuxt.js" />
+    <br>Nuxt.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+    <br>Express
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+    <br>Figma
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+    <br>Linux
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+    <br>Bash
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
+    <br>Three.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" />
+    <br>Blender
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+    <br>PyTorch
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+    <br>TensorFlow
+  </td>
+</tr>
+
 </table>
 <br><br>
 
