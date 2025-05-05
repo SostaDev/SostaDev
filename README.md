@@ -142,7 +142,7 @@
       <br>Sass
     </td>
               <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
       <br>GraphQL
     </td>
     <td align="center" width="96">
@@ -428,20 +428,8 @@
     <br>Xamarin
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
-    <br>Vue.js
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nuxt" width="48" height="48" alt="Nuxt.js" />
-    <br>Nuxt.js
-  </td>
-  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
     <br>Angular
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-    <br>Next.js
   </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte" />
@@ -450,14 +438,6 @@
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="Astro" />
     <br>Astro
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-    <br>Tailwind CSS
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-    <br>Bootstrap
   </td>
 </tr>
 
@@ -471,59 +451,15 @@
     <br>Material UI
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-    <br>Redux
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-    <br>GraphQL
-  </td>
-  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=apollo" width="48" height="48" alt="Apollo" />
     <br>Apollo
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
-    <br>NestJS
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
-    <br>Express.js
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-    <br>Django
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-    <br>FastAPI
   </td>
 </tr>
 
 <tr>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-    <br>PostgreSQL
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-    <br>MySQL
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-    <br>MongoDB
-  </td>
-  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
     <br>SQLite
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-    <br>Redis
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
-    <br>Prisma
   </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=typeorm" width="48" height="48" alt="TypeORM" />
