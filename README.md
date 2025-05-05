@@ -294,6 +294,122 @@
     <br>Solidity
   </td>
 </tr>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" />
+    <br>Swift
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+    <br>Kotlin
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=xcode" width="48" height="48" alt="Xcode" />
+    <br>Xcode
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
+    <br>Android Studio
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
+    <br>Jest
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=vitest" width="48" height="48" alt="Vitest" />
+    <br>Vitest
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=cypress" width="48" height="48" alt="Cypress" />
+    <br>Cypress
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mocha" width="48" height="48" alt="Mocha" />
+    <br>Mocha
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" />
+    <br>Selenium
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=hardhat" width="48" height="48" alt="Hardhat" />
+    <br>Hardhat
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=truffle" width="48" height="48" alt="Truffle" />
+    <br>Truffle
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=ethers" width="48" height="48" alt="Ethers.js" />
+    <br>Ethers.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=web3" width="48" height="48" alt="Web3.js" />
+    <br>Web3.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=metamask" width="48" height="48" alt="MetaMask" />
+    <br>MetaMask
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+    <br>Figma
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=canva" width="48" height="48" alt="Canva" />
+    <br>Canva
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=adobexd" width="48" height="48" alt="Adobe XD" />
+    <br>Adobe XD
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Photoshop" />
+    <br>Photoshop
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="48" height="48" alt="Illustrator" />
+    <br>Illustrator
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-plain.svg" width="48" height="48" alt="Lightroom" />
+    <br>Lightroom
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" width="48" height="48" alt="After Effects" />
+    <br>After Effects
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
+    <br>Notion
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=slack" width="48" height="48" alt="Slack" />
+    <br>Slack
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+    <br>Postman
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=insomnia" width="48" height="48" alt="Insomnia" />
+    <br>Insomnia
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="Sentry" />
+    <br>Sentry
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mixpanel" width="48" height="48" alt="Mixpanel" />
+    <br>Mixpanel
+  </td>
+</tr>
 
 </table>
 <br><br>
