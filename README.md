@@ -217,6 +217,83 @@
     <br>TensorFlow
   </td>
 </tr>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+    <br>Jenkins
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible" />
+    <br>Ansible
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+    <br>Terraform
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" />
+    <br>Prometheus
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" />
+    <br>Grafana
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Elasticsearch" />
+    <br>Elasticsearch
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+    <br>Redis
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby" />
+    <br>Ruby
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Rails" />
+    <br>Rails
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+    <br>Go
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+    <br>Java
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+    <br>.NET
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=gradle" width="48" height="48" alt="Gradle" />
+    <br>Gradle
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" />
+    <br>Maven
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+    <br>Supabase
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+    <br>Prisma
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+    <br>FastAPI
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+    <br>Solidity
+  </td>
+</tr>
 
 </table>
 <br><br>
