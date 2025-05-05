@@ -346,52 +346,8 @@
 
 <tr>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=hardhat" width="48" height="48" alt="Hardhat" />
-    <br>Hardhat
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=truffle" width="48" height="48" alt="Truffle" />
-    <br>Truffle
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=ethers" width="48" height="48" alt="Ethers.js" />
-    <br>Ethers.js
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=web3" width="48" height="48" alt="Web3.js" />
-    <br>Web3.js
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=metamask" width="48" height="48" alt="MetaMask" />
-    <br>MetaMask
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-    <br>Figma
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=canva" width="48" height="48" alt="Canva" />
-    <br>Canva
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=adobexd" width="48" height="48" alt="Adobe XD" />
-    <br>Adobe XD
-  </td>
-  
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mocha" width="48" height="48" alt="Mocha" />
-    <br>Mocha
-  </td>
-</tr>
-
-<tr>
-  <td align="center" width="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="48" height="48" alt="Illustrator" />
     <br>Illustrator
-  </td>
-  <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-plain.svg" width="48" height="48" alt="Lightroom" />
-    <br>Lightroom
   </td>
   <td align="center" width="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" width="48" height="48" alt="After Effects" />
@@ -402,27 +358,9 @@
     <br>Notion
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=slack" width="48" height="48" alt="Slack" />
-    <br>Slack
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=xcode" width="48" height="48" alt="Xcode" />
-    <br>Xcode
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=insomnia" width="48" height="48" alt="Insomnia" />
-    <br>Insomnia
-  </td>
-  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="Sentry" />
     <br>Sentry
   </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mixpanel" width="48" height="48" alt="Mixpanel" />
-    <br>Mixpanel
-  </td>
-</tr>
-<tr>
   <td align="center" width="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" width="48" height="48" alt="Xamarin" />
     <br>Xamarin
@@ -439,13 +377,13 @@
     <img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="Astro" />
     <br>Astro
   </td>
-</tr>
-
-<tr>
   <td align="center" width="96">
 	<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="48" height="48" />
 	<br>C#
   </td>
+</tr>
+
+<tr>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material UI" />
     <br>Material UI
@@ -454,28 +392,14 @@
     <img src="https://skillicons.dev/icons?i=apollo" width="48" height="48" alt="Apollo" />
     <br>Apollo
   </td>
-</tr>
-
-<tr>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
     <br>SQLite
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=typeorm" width="48" height="48" alt="TypeORM" />
-    <br>TypeORM
-  </td>
-  <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=sequelize" width="48" height="48" alt="Sequelize" />
     <br>Sequelize
   </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mongoose" width="48" height="48" alt="Mongoose" />
-    <br>Mongoose
-  </td>
-</tr>
-
-<tr>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
     <br>Git
@@ -496,17 +420,8 @@
     <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
     <br>Docker
   </td>
-  
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-    <br>Spring
-  </td>
-  
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-    <br>Laravel
-  </td>
 </tr>
+
 <tr>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
@@ -556,22 +471,6 @@
     <br>Grafana
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=newrelic" width="48" height="48" alt="New Relic" />
-    <br>New Relic
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=datadog" width="48" height="48" alt="Datadog" />
-    <br>Datadog
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=logstash" width="48" height="48" alt="Logstash" />
-    <br>Logstash
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=kibana" width="48" height="48" alt="Kibana" />
-    <br>Kibana
-  </td>
-  <td align="center" width="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="48" height="48" alt="Elasticsearch" />
     <br>Elasticsearch
   </td>
@@ -582,6 +481,16 @@
   <td align="center" width="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache" />
     <br>Apache
+  </td>
+  
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+    <br>Spring
+  </td>
+  
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+    <br>Laravel
   </td>
 </tr>
 
