@@ -416,6 +416,261 @@
     <br>Mixpanel
   </td>
 </tr>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+    <br>Flutter
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+    <br>Dart
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+    <br>Firebase
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud Platform" />
+    <br>GCP
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Microsoft Azure" />
+    <br>Azure
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="Amazon Web Services" />
+    <br>AWS
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
+    <br>.NET
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" width="48" height="48" alt="Xamarin" />
+    <br>Xamarin
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React Native" />
+    <br>React Native
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
+    <br>Vue.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nuxt" width="48" height="48" alt="Nuxt.js" />
+    <br>Nuxt.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+    <br>Angular
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+    <br>Next.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte" />
+    <br>Svelte
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="Astro" />
+    <br>Astro
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+    <br>Tailwind CSS
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+    <br>Bootstrap
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material UI" />
+    <br>Material UI
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+    <br>Redux
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+    <br>GraphQL
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=apollo" width="48" height="48" alt="Apollo" />
+    <br>Apollo
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+    <br>NestJS
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+    <br>Express.js
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+    <br>Django
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+    <br>FastAPI
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+    <br>Laravel
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+    <br>Spring
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+    <br>PostgreSQL
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+    <br>MySQL
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+    <br>MongoDB
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+    <br>SQLite
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+    <br>Redis
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+    <br>Prisma
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=typeorm" width="48" height="48" alt="TypeORM" />
+    <br>TypeORM
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=sequelize" width="48" height="48" alt="Sequelize" />
+    <br>Sequelize
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mongoose" width="48" height="48" alt="Mongoose" />
+    <br>Mongoose
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+    <br>Git
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+    <br>GitHub
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+    <br>GitLab
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=bitbucket" width="48" height="48" alt="Bitbucket" />
+    <br>Bitbucket
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+    <br>Docker
+  </td>
+</tr>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+    <br>Kubernetes
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="48" height="48" alt="Helm" />
+    <br>Helm
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" />
+    <br>Terraform
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="48" height="48" alt="Ansible" />
+    <br>Ansible
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
+    <br>Jenkins
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" width="48" height="48" alt="CircleCI" />
+    <br>CircleCI
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub Actions" />
+    <br>GitHub Actions
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="GitLab CI" />
+    <br>GitLab CI
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg" width="48" height="48" alt="Travis CI" />
+    <br>Travis CI
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="48" height="48" alt="Prometheus" />
+    <br>Prometheus
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="48" height="48" alt="Grafana" />
+    <br>Grafana
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=newrelic" width="48" height="48" alt="New Relic" />
+    <br>New Relic
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=datadog" width="48" height="48" alt="Datadog" />
+    <br>Datadog
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=logstash" width="48" height="48" alt="Logstash" />
+    <br>Logstash
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=kibana" width="48" height="48" alt="Kibana" />
+    <br>Kibana
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="48" height="48" alt="Elasticsearch" />
+    <br>Elasticsearch
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" />
+    <br>Nginx
+  </td>
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache" />
+    <br>Apache
+  </td>
+</tr>
 
 </table>
 <br><br>
