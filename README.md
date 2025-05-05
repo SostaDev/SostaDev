@@ -70,10 +70,12 @@
       <br>AWS
     </td>
   </tr>
+  
   <tr>
   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="48" height="48" />
       <br>Django
+	</td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" />
       <br>Github
@@ -107,6 +109,7 @@
       <br>jQuery
     </td>
   </tr>
+  
  <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
@@ -115,7 +118,6 @@
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
-      </td>
       </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
@@ -146,6 +148,7 @@
       <br>PostgreSQL
     </td>
  </tr>
+ 
   <tr>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
