@@ -15,15 +15,15 @@
 </p>
 
 <div>
-- 💻 Expert in Flutter & Dart with years of experience building scalable, high-performance mobile applications for Android and iOS
-- 🌐 Proficient in front-end frameworks like React, Angular, and Vue.js; strong back-end skills with Node.js, Python, and Firebase
-- ☁️ Skilled in Cloud technologies across AWS, Google Cloud (GCP), and Azure, including CI/CD pipelines, DevOps practices, and containerization (Docker, Kubernetes)
-- 🧠 Built and integrated AI-driven applications with ChatGPT, OpenAI APIs, and other NLP/ML platforms
-- 🤖 Strong foundation in machine learning, including deep learning, recommendation systems, and reinforcement learning
-- 🛠️ Experience with Odoo ERP customization and module development
-- 🚀 Passionate about clean architecture, modular design, and delivering maintainable, production-ready code
-- 🧩 Collaborates effectively in cross-functional teams; thrives in agile, fast-paced environments
-- 🎯 Always exploring new tech and solving real-world problems with elegant, innovative solutions
+- 💻 Expert in Flutter & Dart with years of experience building scalable, high-performance mobile applications for Android and iOS<br/>
+- 🌐 Proficient in front-end frameworks like React, Angular, and Vue.js; strong back-end skills with Node.js, Python, and Firebase<br/>
+- ☁️ Skilled in Cloud technologies across AWS, Google Cloud (GCP), and Azure, including CI/CD pipelines, DevOps practices, and containerization (Docker, Kubernetes)<br/>
+- 🧠 Built and integrated AI-driven applications with ChatGPT, OpenAI APIs, and other NLP/ML platforms<br/>
+- 🤖 Strong foundation in machine learning, including deep learning, recommendation systems, and reinforcement learning<br/>
+- 🛠️ Experience with Odoo ERP customization and module development<br/>
+- 🚀 Passionate about clean architecture, modular design, and delivering maintainable, production-ready code<br/>
+- 🧩 Collaborates effectively in cross-functional teams; thrives in agile, fast-paced environments<br/>
+- 🎯 Always exploring new tech and solving real-world problems with elegant, innovative solutions<br/>
 </div>
 
 # 💻 Deep knowledge of these Tools/Technologies and beyond ..
