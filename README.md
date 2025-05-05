@@ -493,10 +493,6 @@
     <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
     <br>FastAPI
   </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-    <br>Laravel
-  </td>
 </tr>
 
 <tr>
@@ -563,6 +559,11 @@
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
     <br>Spring
+  </td>
+  
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+    <br>Laravel
   </td>
 </tr>
 <tr>
