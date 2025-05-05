@@ -28,6 +28,8 @@
 
 # 💻 Deep knowledge of these Tools/Technologies and beyond ..
 <div style="display: flex; align-items: flex-start; align: center">
+<img src="https://skillicons.dev/icons?i=all" />
+<br>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -648,8 +650,6 @@
 </tr>
 
 </table>
-<br>
-<img src="https://skillicons.dev/icons?i=all" />
 <br><br>
 
 ## Contacts
