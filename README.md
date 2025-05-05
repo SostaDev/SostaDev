@@ -647,13 +647,9 @@
   </td>
 </tr>
 
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=all" />
-</td>
-</tr>
-
 </table>
+<br>
+<img src="https://skillicons.dev/icons?i=all" />
 <br><br>
 
 ## Contacts
