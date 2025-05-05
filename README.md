@@ -309,8 +309,8 @@
     <br>Kotlin
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=xcode" width="48" height="48" alt="Xcode" />
-    <br>Xcode
+    <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+    <br>Postman
   </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android Studio" />
@@ -329,8 +329,8 @@
     <br>Cypress
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mocha" width="48" height="48" alt="Mocha" />
-    <br>Mocha
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Photoshop" />
+    <br>Photoshop
   </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="Selenium" />
@@ -371,9 +371,10 @@
     <img src="https://skillicons.dev/icons?i=adobexd" width="48" height="48" alt="Adobe XD" />
     <br>Adobe XD
   </td>
+  
   <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Photoshop" />
-    <br>Photoshop
+    <img src="https://skillicons.dev/icons?i=mocha" width="48" height="48" alt="Mocha" />
+    <br>Mocha
   </td>
 </tr>
 
@@ -399,8 +400,8 @@
     <br>Slack
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-    <br>Postman
+    <img src="https://skillicons.dev/icons?i=xcode" width="48" height="48" alt="Xcode" />
+    <br>Xcode
   </td>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=insomnia" width="48" height="48" alt="Insomnia" />
