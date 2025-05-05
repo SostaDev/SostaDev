@@ -34,6 +34,11 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
+    
+  <td align="center" width="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React Native" />
+    <br>React Native
+  </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
@@ -418,44 +423,9 @@
 </tr>
 <tr>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-    <br>Flutter
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-    <br>Dart
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-    <br>Firebase
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud Platform" />
-    <br>GCP
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Microsoft Azure" />
-    <br>Azure
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="Amazon Web Services" />
-    <br>AWS
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-    <br>.NET
-  </td>
-  <td align="center" width="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" width="48" height="48" alt="Xamarin" />
     <br>Xamarin
   </td>
-  <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React Native" />
-    <br>React Native
-  </td>
-</tr>
-
-<tr>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
     <br>Vue.js
