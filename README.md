@@ -28,7 +28,7 @@
 
 # 💻 Deep knowledge of these Tools/Technologies and beyond ..
 <div style="display: flex; align-items: flex-start; align: center">
-<img src="https://skillicons.dev/icons?i=all" />
+<img src="https://skillicons.dev/icons?i=all" width="100%" height="auto"/>
 <br>
 <table align="center">
   <tr>
