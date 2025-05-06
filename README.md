@@ -498,6 +498,7 @@
 <br><br>
 
 ## Contacts
-  <div align="center"> 
-  [mail:almodoen@gmail.com](Send me a message)
-  </div>
+<div align="center"> 
+  <a href="mailto:almodoen@gmail.com">Send me a message</a>
+</div>
+
