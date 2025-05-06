@@ -499,5 +499,5 @@
 
 ## Contacts
   <div align="center"> 
-  <a href="mail:almodoen@gmail.com" target="_blank">Send me a message</a>
+  [mail:almodoen@gmail.com](Send me a message)
   </div>
